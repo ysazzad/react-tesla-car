@@ -2,43 +2,43 @@
     {
         "id": "1",
         "comment": "awesome car",
-        "name": "Sazzad Idrees",
+        "name": "Masrafee Mortuza",
         "rating": 5,
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s6dp2gck3oukxj9csz5y/air-max-270-mens-shoes-KkLcGR.png"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEagThpFC6v-DD4xshNoGenNBf9iJGzmQKA&usqp=CAU"
     },
     {
         "id": "2",
         "comment": "not bad",
         "name": "Tamim Iqbal ",
         "rating": 4,
-        "img": "https://footwearnews.com/wp-content/uploads/2020/09/nike-react-infinity-run.jpg"
+        "img": "https://mir-s3-cdn-cf.behance.net/projects/404/846f4153370397.Y3JvcCwxMDgyLDg0NywwLDA.png"
     },
     {
         "id": "3",
         "comment": "i love this car",
-        "name": "Sakib Hasan ",
+        "name": "Sakib Al Hasan ",
         "rating": 5,
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/326fea9b-d130-4877-8c07-3f2665742ebe/air-max-pre-day-mens-shoes-JBXGg7.png"
+        "img": "https://images.news18.com/ibnlive/uploads/2021/10/shakib-al-hasan-1-16348345374x3.jpg"
     },
     {
         "id": "4",
         "comment": "white color is better than this one",
         "name": "Taskin Ahmed",
         "rating": 3,
-        "img": "https://media.sivasdescalzo.com/media/catalog/product/D/C/DC9402-800_sivasdescalzo-Nike-AIR_MAX_PRE-DAY-1638363628-1.jpg?quality=70&auto=webp&fit=bounds&width=420"
+        "img": "https://api.bdcrictime.com/248446287_383046496883694_3440674783930231959_n-03_11_2021.jpg"
     },
     {
         "id": "5",
         "comment": "worst car i have ever seen",
         "name": "Nasir Hossain",
         "rating": 2,
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42a5d53-2f99-4e78-a081-9d07a2d0774a/air-force-1-07-shoe-ZLZpmn.png"
+        "img": "https://www.sacricketmag.com/wp-content/uploads/2022/02/Nasir-Hossain-Bangaladesh-1024x655.jpg"
     },
     {
         "id": "6",
-        "price": "I can not afford this car",
+        "comment": "I can not afford this car",
         "name": "Mehdi miraz",
         "rating": 4,
-        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41df245f-a1e5-4c6a-9c73-bdb0617202f1/court-vision-low-mens-shoes-xkqwtj.png"
+        "img": "https://admin.dailycricket.com.bd/storage/posts/6103/Mehidy-Hasan-Miraz-no-4-ODI-bowler.jpg"
     }
 ]
