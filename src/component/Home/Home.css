@@ -1,0 +1,19 @@
+.image-container img {
+    width: 500px;
+}
+
+.car-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    margin: 40px 60px;
+}
+
+.title-one {
+    color: #273c75;
+    margin-bottom: 0px;
+}
+
+.title-two {
+    color: #e74c3c;
+    margin-top: 0px;
+}

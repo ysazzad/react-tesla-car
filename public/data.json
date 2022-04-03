@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "comment": "awesome car",
+        "name": "Sazzad Idrees",
+        "rating": 5,
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s6dp2gck3oukxj9csz5y/air-max-270-mens-shoes-KkLcGR.png"
+    },
+    {
+        "id": "2",
+        "comment": "not bad",
+        "name": "Tamim Iqbal ",
+        "rating": 4,
+        "img": "https://footwearnews.com/wp-content/uploads/2020/09/nike-react-infinity-run.jpg"
+    },
+    {
+        "id": "3",
+        "comment": "i love this car",
+        "name": "Sakib Hasan ",
+        "rating": 5,
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/326fea9b-d130-4877-8c07-3f2665742ebe/air-max-pre-day-mens-shoes-JBXGg7.png"
+    },
+    {
+        "id": "4",
+        "comment": "white color is better than this one",
+        "name": "Taskin Ahmed",
+        "rating": 3,
+        "img": "https://media.sivasdescalzo.com/media/catalog/product/D/C/DC9402-800_sivasdescalzo-Nike-AIR_MAX_PRE-DAY-1638363628-1.jpg?quality=70&auto=webp&fit=bounds&width=420"
+    },
+    {
+        "id": "5",
+        "comment": "worst car i have ever seen",
+        "name": "Nasir Hossain",
+        "rating": 2,
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42a5d53-2f99-4e78-a081-9d07a2d0774a/air-force-1-07-shoe-ZLZpmn.png"
+    },
+    {
+        "id": "6",
+        "price": "I can not afford this car",
+        "name": "Mehdi miraz",
+        "rating": 4,
+        "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41df245f-a1e5-4c6a-9c73-bdb0617202f1/court-vision-low-mens-shoes-xkqwtj.png"
+    }
+]
