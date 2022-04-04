@@ -1,9 +1,23 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import ReviewAll from '../ReviewAll/ReviewAll';
+import './Reviews.css'
+
 
 const Reviews = () => {
+    const [reviews, setReviews] = useState([])
+    useEffect(() => {
+        fetch(`data.json`)
+            .then(res => res.json())
+            .then(data => setReviews(data))
+    }, [])
     return (
         <div>
-            <h2>Reviews</h2>
+            <h1 className='customer-title'>What Our Customer Says!!!</h1>
+            <div className='reviewAll'>
+                {
+                    reviews.map(review => <ReviewAll key={review.id} review={review}></ReviewAll>)
+                }
+            </div>
         </div>
     );
 };

@@ -1,0 +1,10 @@
+.reviewAll {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.customer-title {
+    text-align: center;
+    color: #3867d6;
+
+}

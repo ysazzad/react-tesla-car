@@ -1,0 +1,24 @@
+.reviewAll-detail img {
+    width: 250px;
+}
+
+.reviewAll-detail {
+    border: 1px solid goldenrod;
+    width: 250px;
+    padding: 7px;
+    margin-bottom: 40px;
+
+}
+
+.name {
+    margin-bottom: 6px;
+}
+
+.comment {
+    margin-top: 0px;
+    margin-bottom: 6px;
+}
+
+.rating {
+    margin-top: 0px;
+}
