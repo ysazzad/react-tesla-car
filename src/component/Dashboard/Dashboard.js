@@ -49,7 +49,7 @@ const Dashboard = () => {
             <LineChart width={400} height={400} data={data}>
                 <Line type="monotone" dataKey="investment" stroke="#8884d8" />
                 <Line dataKey="revenue"></Line>
-                <XAxis dataKey="sell" />
+                <XAxis dataKey="month" />
                 <Tooltip></Tooltip>
                 <YAxis />
             </LineChart>

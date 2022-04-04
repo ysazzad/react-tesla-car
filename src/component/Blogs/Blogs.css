@@ -1,0 +1,29 @@
+.theory-part {
+    text-align: center;
+    color: goldenrod;
+}
+
+.blog-written {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin: 70px 30px;
+    color: lightslategray;
+
+}
+
+.blog-one {
+    padding: 10px;
+    line-height: 25px;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.blog-two {
+    padding: 10px;
+    line-height: 25px;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
