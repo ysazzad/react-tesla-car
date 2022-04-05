@@ -11,8 +11,6 @@ const ReviewAll = ({ review }) => {
                 <p className='rating'>Rating: {rating}</p>
 
             </div>
-
-
         </div>
     );
 };

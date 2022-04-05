@@ -1,14 +1,17 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import useReview from '../hook/useReview';
 import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
-    const [reviews, setReviews] = useState([])
-    useEffect(() => {
-        fetch(`data.json`)
-            .then(res => res.json())
-            .then(data => setReviews(data))
-    }, [])
+    // const [reviews, setReviews] = useState([])
+    // useEffect(() => {
+    //     fetch(`data.json`)
+    //         .then(res => res.json())
+    //         .then(data => setReviews(data))
+    // }, [])
+    const [reviews, setReviews] = useReview()
     return (
         <div >
             <div className='car-container'>
@@ -33,7 +36,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='reviews-btn-container'>
-                <button className='reviews-btn'>See All Reviews</button>
+                <Link to='/reviews' className='reviews-btn'>See All Reviews</Link>
             </div>
 
         </div>

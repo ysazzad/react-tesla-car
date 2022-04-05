@@ -2,7 +2,7 @@ import React from 'react';
 import './Review.css'
 
 const Review = ({ review }) => {
-    // console.log(props.review);
+
     const { name, comment, rating, img } = review
     return (
         <div >
@@ -13,9 +13,6 @@ const Review = ({ review }) => {
                 <p className='rating'>Rating: {rating}</p>
 
             </div>
-
-
-
         </div>
     );
 };

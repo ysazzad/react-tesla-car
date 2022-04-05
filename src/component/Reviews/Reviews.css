@@ -1,6 +1,7 @@
 .reviewAll {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    margin: 10px 90px;
 }
 
 .customer-title {
